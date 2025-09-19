@@ -1,0 +1,89 @@
+# =========================
+# OS generated files
+# =========================
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+*.swp
+*.swo
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.env
+.env/
+venv/
+ENV/
+env.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# =========================
+# Node / JavaScript
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# IDEs / Editors
+# =========================
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# JetBrains
+*.iws
+*.ipr
+*.iml
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Git
+# =========================
+*.orig
+*.rej
+*.patch
+
+# =========================
+# Environment / Secrets
+# =========================
+*.key
+*.pem
+*.env
+.env.local
+.env.*.local
+
+# =========================
+# Other
+# =========================
+.DS_Store
+*.bak
+*.swp
